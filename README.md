@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=200&section=header&text=randall&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20•%20Cybersecurity%20•%20Automation&descSize=16&descColor=C9D1D9&descAlignY=55&animation=twinkling"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Randall;Student+%40+MPEI;Backend+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=450&height=30&lines=Student+%40+MPEI;Fullstack+Developer;Cybersecurity+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ran9all&style=for-the-badge&color=6C63FF" alt="Profile views"/>
 
@@ -10,22 +10,36 @@
 
 ---
 
-## :man_technologist: About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> &nbsp;About Me
 
-- :mortar_board: Student at **Moscow Power Engineering Institute (MPEI)**
-- :hospital: Building **PMAS** — Clinical Planning System
-- :robot: Building **Telegram bots**, automation tools & backend systems
-- :shield: Interested in **Cybersecurity** & system architecture
-- :seedling: Currently learning and building every day
+```yaml
+name: Randall
+location: Moscow, Russia
+education: Moscow Power Engineering Institute (MPEI)
+
+current_focus:
+  - "🤖 Telegram bots & automation"
+  - "🔐 Cybersecurity & network security"
+  - "⚙️ Backend systems & API integrations"
+  - "🛠️ Building tools that automate everything"
+
+interests:
+  - System Architecture
+  - Automation & Parsing
+  - Network Security
+  - Open Source
+
+motto: "Build things that matter"
+```
 
 ---
 
-## :computer: Development
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> &nbsp;Tech Stack
 
 <div align="center">
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,go,cpp&theme=dark)](https://skillicons.dev)
 
 #### Backend & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark)](https://skillicons.dev)
@@ -36,7 +50,12 @@
 #### Infrastructure & Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-#### Also
+<br/>
+
+<details>
+<summary><b>⚡ More Skills</b></summary>
+<br/>
+
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge)
@@ -46,11 +65,13 @@
 ![Automation](https://img.shields.io/badge/Automation-2496ED?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-FFC107?style=for-the-badge)
 
+</details>
+
 </div>
 
 ---
 
-## :shield: Cybersecurity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" /> &nbsp;Cybersecurity
 
 <div align="center">
 
@@ -68,7 +89,7 @@
 
 ---
 
-## :bar_chart: GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -77,33 +98,23 @@
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ran9all&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ran9all&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## :trophy: GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" /> &nbsp;Now Playing
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ran9all&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314vkfr4muhffvl6ph7djntpyibi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=314vkfr4muhffvl6ph7djntpyibi&redirect=true)
 
 </div>
 
 ---
 
-## :rocket: Featured Projects
-
-<div align="center">
-
-[![PMAS](https://github-readme-stats.vercel.app/api/pin/?username=ran9all&repo=PMAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/ran9all/PMAS)
-
-</div>
-
----
-
-## :snake: Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -119,12 +130,12 @@
 
 <div align="center">
 
-### :handshake: Connect with me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> &nbsp;Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/randallnotes)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=100&section=footer"/>
 
 </div>
