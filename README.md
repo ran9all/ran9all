@@ -93,7 +93,7 @@ motto: "Build things that matter"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ran9all&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ran9all&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=ran9all&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 <br/>
