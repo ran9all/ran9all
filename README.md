@@ -15,5 +15,3 @@
 </picture>
 
 </div>
-
-<sub>ASCII art of Saint Basil's Cathedral by Ultramarine Rain and Lunatic 42, via [ASCII Art Archive](https://www.asciiart.eu/buildings-and-places/monuments/other). Terminal layout inspired by [animated-terminal-profile](https://github.com/Aiyzoxx/animated-terminal-profile).</sub>
